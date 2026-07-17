@@ -45,3 +45,46 @@ button {
   font-weight: 600;
   cursor: pointer;
 }
+header {
+  background-image: url("./assets/banner.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-content {
+  text-align: center;
+  color: white;
+  max-width: 600px;
+  padding: 0 19px;
+}
+.header-content h1 {
+  font-size: 55px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.header-content h1 span {
+  font-style: italic;
+}
+.header-content p {
+  font-size: 15px;
+  line-height: 1.1;
+  color: #ffffff;
+  margin-bottom: 40px;
+  max-width: 520px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-content button {
+  background-color: #1d4ed8;
+  color: white;
+  border: none;
+  padding: 10px 28px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
