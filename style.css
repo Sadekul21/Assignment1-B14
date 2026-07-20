@@ -306,3 +306,31 @@ header {
   border-radius: 8px;
   font-weight: 600;
 }
+.footer{
+  background-color: #0D1B2A;
+  color: #FFFFFF;
+  padding: 28px 18px;
+  font-size: 12px;
+}
+.footer-container{
+  max-width: 1140px; 
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+}
+.copyright {
+  margin: 0;
+  color: #FFFFFF;
+}
+.footer-links {
+  display: flex;
+  gap: 24px; 
+}
+.footer-links a {
+  text-decoration: none;
+}
+.footer-links a:hover {
+  color: #ffffff; 
+}
+
