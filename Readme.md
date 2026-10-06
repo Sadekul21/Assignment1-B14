@@ -18,7 +18,7 @@ https://github.com/Sadekul21/Assignment1-B14
 
 ## 📸 Project Preview
 
-<!-- Add your project screenshot here -->
+<img width="905" height="436" alt="Image" src="https://github.com/user-attachments/assets/044df5a7-907a-4dbb-93df-351da28d82cd" />
 
 ---
 
